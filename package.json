@@ -1,0 +1,33 @@
+{
+  "name": "three_react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.4.0",
+    "@react-three/drei": "^9.29.1",
+    "@react-three/fiber": "^8.7.2",
+    "@types/three": "^0.144.0",
+    "drei": "^2.2.21",
+    "install": "^0.13.0",
+    "npm": "^8.19.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.144.0",
+    "three-orbitcontrols": "^2.110.3",
+    "use-cannon": "^0.5.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.0"
+  }
+}
